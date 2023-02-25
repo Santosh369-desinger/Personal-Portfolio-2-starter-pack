@@ -9,13 +9,13 @@ export const projectExperience = [
     bg: "#286F6C",
   },
   {
-    name: "Mobile App Design",
+    name: "Motion Graphic Design",
     projects: 63,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
+    name: "3D Artist",
     projects: 47,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
@@ -29,25 +29,25 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Airlo",
+    tenure: "Jan 2023 - present",
+    role: "3D Designer & React Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Working on React dashboard and admin panels. Using three js for 3d designing.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Digital Minds Solutions",
+    tenure: "June 2017 - june 2022",
+    role: "3D Motion Graphics & Unity Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "3D interactive applications created using Unity and Unreal Engine. In short, I developed the interactive applications using game engines.",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Digital Minds Solutions",
+    tenure: "Nov 2014 - June 2017",
+    role: "3D Architectural Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Architechtural desginer builds the 3D exterior and interior facade designs. In short, they create exterior and interior Renders and walkthroughs.",
   },
 ];
 
